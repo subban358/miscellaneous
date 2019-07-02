@@ -1,3 +1,4 @@
+//Removing duplicate elements from an array using an auxilary array
 #include <stdio.h>
 
 int main()
